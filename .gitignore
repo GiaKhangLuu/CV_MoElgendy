@@ -4,3 +4,6 @@
 /pyvenv.cfg
 /chapter_06/dogs_vs_cats_project/.idea
 /chapter_06/dogs_vs_cats_project/*.h5
+/chapter_06/demo_fine_tuning/*.h5
+/chapter_06/demo_fine_tuning/*.hdf5
+/chapter_06/demo_fine_tuning/.idea
