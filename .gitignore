@@ -1,3 +1,6 @@
 /lib
 /bin
 /.DS_Store
+/pyvenv.cfg
+/chapter_06/dogs_vs_cats_project/.idea
+/chapter_06/dogs_vs_cats_project/*.h5
